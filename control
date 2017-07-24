@@ -1,0 +1,10 @@
+Package: com.neinzedd9.fuckthatgreybox
+Name: FuckThatGreyBox
+Depends: mobilesubstrate
+Pre-Depends: firmware (>= 10.0)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Get rid of the grey box behind "Music" in the Control Center.
+Maintainer: NeinZedd9
+Author: NeinZedd9
+Section: Tweaks
